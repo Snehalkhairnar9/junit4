@@ -103,6 +103,10 @@
         <arguments />
         <gpg.keyname>67893CC4</gpg.keyname>
     </properties>
+    <properties>
+  <sonar.organization>snehalkhairnar9</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
     <dependencies>
         <dependency>
